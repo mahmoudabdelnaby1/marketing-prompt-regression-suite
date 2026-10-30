@@ -1,0 +1,18 @@
+{
+  "suite_name": "Ad Copy Structured JSON Output Benchmark",
+  "eval_cases": [
+    {
+      "case_name": "Saudi National Day Ad Variation",
+      "required_json_keys": [
+        "headline",
+        "primary_text",
+        "call_to_action"
+      ],
+      "mock_model_output": {
+        "headline": "عروض يوم التأسيس",
+        "primary_text": "اطلب الآن مع شحن مجاني",
+        "call_to_action": "SHOP_NOW"
+      }
+    }
+  ]
+}

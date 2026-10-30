@@ -1,0 +1,16 @@
+{
+  "suite_name": "SEO Meta Title & Description Bounds",
+  "eval_cases": [
+    {
+      "case_name": "Riyadh Cleaning Page Meta",
+      "required_json_keys": [
+        "title",
+        "description"
+      ],
+      "mock_model_output": {
+        "title": "شركة تنظيف منازل بالرياض",
+        "description": "خدمات تنظيف الفلل والشقق بأحدث المعدات"
+      }
+    }
+  ]
+}
